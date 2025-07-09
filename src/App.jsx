@@ -14,6 +14,7 @@ function App() {
   ];
 
   const [base, setBase] = useState();
+
   useEffect(() => {
     setSelectValue(data[0].id);
     setBase(data[0].base);
