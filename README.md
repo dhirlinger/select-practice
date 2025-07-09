@@ -1,2 +1,2 @@
-I'm working out an issue you (in simplified form) I'm having with a larger project. https://github.com/dhirlinger/multiplier-react
+I'm working out an issue (in simplified form) that I'm having with a larger project. https://github.com/dhirlinger/multiplier-react
 Here I have a select element recalling presets that informs multiple state variables that can also be updated with other elements, in this case range input elements. I've worked out here how to "refresh" those state variables be recalling the current but altered preset with a refresh button. 
